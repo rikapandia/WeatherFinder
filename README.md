@@ -29,7 +29,6 @@ Aplikasi cuaca real-time yang menampilkan informasi cuaca berdasarkan nama kota 
 
 ## Screenshot
 
-Screenshot
 Kosong
 <img width="360" alt="kosong" src="https://github.com/user-attachments/assets/00ea9b0f-e8ca-48d8-a580-b4567fc5bf9e" />
 Loading
