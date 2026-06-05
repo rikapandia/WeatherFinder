@@ -4,7 +4,6 @@ Aplikasi cuaca real-time yang menampilkan informasi cuaca berdasarkan nama kota 
 
 ---
 
----
 
 **Nama:** Rika Debora Masdalena Sembiring | **NIM:** 243303621282| **Kelas:** 4 PAGIB
 
@@ -35,6 +34,7 @@ Kosong
 <img width="360" alt="kosong" src="https://github.com/user-attachments/assets/00ea9b0f-e8ca-48d8-a580-b4567fc5bf9e" />
 Loading
 <img width="360" alt="loading" src="https://github.com/user-attachments/assets/6ab53705-4f19-47ba-ae25-7663ac67ae38" />
+---
 Sukses
 <img width="360" alt="sukses" src="https://github.com/user-attachments/assets/929027c3-4a38-4665-80c3-9840467ebf37" />
 Error
