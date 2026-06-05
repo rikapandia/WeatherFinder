@@ -4,6 +4,10 @@ Aplikasi cuaca real-time yang menampilkan informasi cuaca berdasarkan nama kota 
 
 ---
 
+---
+
+**Nama:** Rika Debora Masdalena Sembiring | **NIM:** 243303621282| **Kelas:** 4 PAGIB
+
 ## Fitur
 
 **Level 1 (Core)**
@@ -58,6 +62,3 @@ Scan QR code yang muncul menggunakan Expo Go. Pastikan HP dan laptop di WiFi yan
 
 --
 
----
-
-**Nama:** Nama Kamu | **NIM:** 123456789 | **Kelas:** TI-XX
