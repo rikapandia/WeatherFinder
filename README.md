@@ -26,15 +26,11 @@ Aplikasi cuaca real-time yang menampilkan informasi cuaca berdasarkan nama kota 
 
 ## Screenshot
 
-| Kosong | Loading | Sukses | Error |
-|:------:|:-------:|:------:|:-----:|
 | ![kosong](<img width="720" height="1604" alt="kosong" src="https://github.com/user-attachments/assets/00ea9b0f-e8ca-48d8-a580-b4567fc5bf9e" />
 ) | ![loading](<img width="720" height="1604" alt="loading" src="https://github.com/user-attachments/assets/6ab53705-4f19-47ba-ae25-7663ac67ae38" />
 ) | ![sukses](<img width="720" height="1604" alt="sukses" src="https://github.com/user-attachments/assets/929027c3-4a38-4665-80c3-9840467ebf37" />
 ) | ![error](<img width="720" height="1604" alt="error" src="https://github.com/user-attachments/assets/aa11d22c-6be9-4abe-991f-647a97581282" />
 ) |
-
----
 
 ## Cara Menjalankan
 
